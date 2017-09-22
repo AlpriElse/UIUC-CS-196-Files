@@ -1,0 +1,21 @@
+body {
+    background-color: #212E4F;
+}
+img {
+    margin: 0;
+}
+.card {
+    width: 700px;
+    display: block;
+    margin: 50px auto;
+    background-color: #EDEDED;
+    border-radius: 10px;
+}
+.card-image {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 700px;
+}
+.card-content {
+    padding: 20px;
+}
