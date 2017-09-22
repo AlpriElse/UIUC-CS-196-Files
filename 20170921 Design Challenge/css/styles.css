@@ -1,0 +1,38 @@
+body {
+    background-color: #012D41;
+    color: white;
+}
+.container {
+    display: block;
+    width: 600px;
+    margin: 40px auto;
+    background-color: #DAECF3;
+    padding: 40px 80px;
+}
+
+
+/* Card Style Properties */
+.card {
+    background-color: #1BA5B8;
+    padding: 30px;
+    text-align: center;
+}
+.card-image {
+    height: 200px;
+}
+.card-title, .card-subtitle, .card-link {
+    display: block;
+}
+.card-title {
+    font-size: 50px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+.card-subtitle {
+    font-style: italic;
+    margin: 10px;
+}
+.card-link {
+    margin: 30px;
+    font-size: 20px;
+}
