@@ -3,8 +3,8 @@
 html, body {
     background:
         linear-gradient(
-            rgba(255, 85, 15, 0.35),
-            rgba(255, 85, 15, 0.35)
+            rgba(255, 85, 15, 0.7),
+            rgba(255, 85, 15, 0.7)
         ),
         url("../img/siebel.jpg");
     background-repeat: no-repeat;
@@ -33,7 +33,7 @@ html, body {
 background-color: #212E4F;
 }
 #landing {
-    height: 45em;
+    height: 47em;
     width: 100%;
     clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
@@ -55,16 +55,5 @@ background-color: #212E4F;
 }
 #footer {
     height: 10em;
-    clip-path: polygon(0 30%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 40%, 100% 0, 100% 100%, 0% 100%);
 }
-ul {
-    list-style: none;
-}
-
-
-
-/*
-ul {
-    text-decoration: none;
-    list-style: none;
-}*/
